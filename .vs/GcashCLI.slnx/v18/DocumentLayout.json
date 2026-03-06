@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Drew\\source\\repos\\GcashCLI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A043D1CD-2BF4-44D8-883B-75B3D99EE461}|GcashCLI\\GcashCLI.csproj|c:\\users\\drew\\source\\repos\\gcashcli\\gcashcli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A043D1CD-2BF4-44D8-883B-75B3D99EE461}|GcashCLI\\GcashCLI.csproj|solutionrelative:gcashcli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Drew\\source\\repos\\GcashCLI\\GcashCLI\\Program.cs",
+              "RelativeDocumentMoniker": "GcashCLI\\Program.cs",
+              "ToolTip": "C:\\Users\\Drew\\source\\repos\\GcashCLI\\GcashCLI\\Program.cs",
+              "RelativeToolTip": "GcashCLI\\Program.cs",
+              "ViewState": "AgIAANABAAAAAAAAAAAuwLkCAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T06:14:33.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
